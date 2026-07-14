@@ -1,0 +1,96 @@
+08-07-26
+
+📢 *Python with DS Internship - Assignment*
+
+Hello Students,
+
+📝 *Today's Tasks*
+
+### Q1.
+
+Add a `withdraw(amount)` method that subtracts from `__balance` if there are enough funds and prints the new balance. Test it.
+
+### Q2.
+
+Try to print `account1.__balance` from outside the class (it should not work). Also attach a screenshot of the error/output.
+
+### Q3.
+
+Create a `Teacher` class that inherits from `Person` and add a method `teach()`. Instantiate a `Teacher` object and call both `greet()` and `teach()`.
+
+### Q4.
+
+Define a class `FlyingFish` that inherits from both `Flyer` and `Swimmer`.
+Instantiate it and call both `fly()` and `swim()`.
+
+### Q5.
+
+Create a subclass `Director` of `Manager` and override `greet()` to include **"(Director)"**. Instantiate it and call `greet()`.
+
+### Q6.
+#
+Create a class `Principal` with a method `manage_school()`.
+
+Create two child classes:
+
+* `Teacher`
+* `Student`
+
+Both should inherit from `Principal`.
+
+* In the `Teacher` class, create a method `teach()`.
+* In the `Student` class, create a method `study()`.
+
+Create one object of `Teacher` and one object of `Student`, then call:
+
+* `manage_school()`
+* `teach()`
+* `study()`
+
+### Q7.
+
+Create a class `Device` with a method `power_on()`.
+
+Create two child classes:
+
+* `Phone` with a method `call()`
+* `Camera` with a method `take_photo()`
+
+Both should inherit from `Device`.
+
+Create another class `SmartPhone` that inherits from both `Phone` and `Camera`.
+
+Create a `SmartPhone` object and call:
+
+* `power_on()`
+* `call()`
+* `take_photo()`
+
+📌 *Submission Instructions*
+
+1️⃣ Complete all questions.
+
+2️⃣ Take screenshots of:
+• Code
+• Output
+
+3️⃣ Create a single PDF containing:
+• Your Name
+• Question Number
+• Code Screenshot
+• Output Screenshot
+
+4️⃣ Name the PDF:
+`YourName_08-07-26_Task.pdf`
+
+5️⃣ Submit before the deadline.
+
+📝 *Important Notes:*
+
+• Create **one separate Python file for each question**.
+
+• Add the question number as a comment at the top of every file.
+
+⏰ *Deadline: 08-07-26 Before 9:00 PM*
+
+⚠️ Late submissions will not be accepted.
